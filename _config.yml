@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: <p>Driven by the "love of the game" — whether in strategic logic or neural architectures. I am a Data Science MSc student at Centrale Lille, on a double degree programme with IMT Nord Europe, where I am completing my engineering degree with a specialisation in Data Science and Artificial Intelligence. With a rigorous background in Mathematics and Physics, I focus on the theoretical foundations and the practical optimisation of Machine Learning models.</p><p>I recently completed a research internship on AI Explainability (XAI), working on making the decisions of AI-generated image detectors more transparent. My core interests lie at the intersection of Reinforcement Learning (inspired by architectures like AlphaZero and MCTS), Computer Vision and model interpretability — though I enjoy working on a broad range of data science problems. I thrive in environments that challenge my analytical thinking and allow me to bridge the gap between abstract concepts and functional code. Currently looking for a 6-to-14-week internship starting April 2027, in Data Science, Machine Learning or Computer Vision.</p>
+about_me_description: <p>Driven by the "love of the game" — whether in strategic logic or neural architectures. I am a Data Science MSc student at Centrale Lille, on a double degree programme with IMT Nord Europe, where I am completing my engineering degree with a specialisation in Data Science and Artificial Intelligence. With a rigorous background in Mathematics and Physics, I focus on the theoretical foundations and the practical optimisation of Machine Learning models.</p><p>I recently completed a research internship on AI Explainability (XAI), working on making the decisions of AI-generated image detectors more transparent. My core interests lie at the intersection of Reinforcement Learning (inspired by architectures like AlphaZero and MCTS), Computer Vision and model interpretability — though I enjoy working on a broad range of data science problems. I thrive in environments that challenge my analytical thinking and allow me to bridge the gap between abstract concepts and functional code. Currently looking for a 6-to-14-week internship starting April 2027, in Data Science, Machine Learning or Computer Vision.</p><p>You can find my business card <a href="https://github.com/MatGrdjn/my-business-card/releases/latest/download/card.pdf" target="_blank" rel="noopener noreferrer">here</a>.</p>
 
 # SKILLS SECTION
 # show_skills_card:
@@ -126,3 +126,4 @@ exclude:
     "node_modules",
     "package.json",
   ]
+
