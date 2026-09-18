@@ -59,7 +59,7 @@ cv_download_link: https://example.com/
 # show_projects_card:
 # > setting this to true, will display the Projects section
 # > setting this to false, will omit the Projects section
-show_projects_card: false
+show_projects_card: true
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
@@ -103,8 +103,8 @@ projects:
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
-    # - repo1-to-be-excluded
-    # - repo2-to-be-excluded
+      MatGrdjn.github.io
+      my-business-card
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
